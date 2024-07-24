@@ -95,7 +95,7 @@ name = "serde_json"
 version = "1.0.70"
 dependencies = [
     "itoa 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)",
-    "ryu 1.0.0 (registry+https://github.com/rust-lang/crates.io-index)"
+    "ryu 4.34.0 (registry+https://github.com/rust-lang/crates.io-index)"
 ]
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9c305d8b7a4459f7cb707f5b76bea0912f13c6b8752d10e81af7d36391c2b5f7"
@@ -108,7 +108,7 @@ checksum = "e5a2d21cfb52d8a7e92d3aebee45228d5d3b8d981b155d3eaf04ff688c497d29"
 
 [[package]]
 name = "ryu"
-version = "1.0.0"
+version = "4.34.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "27ce0b9ad6a85e90cfd6c25ba6be8722b0cfcf760c2a14728b749106c7f23e13"
 
